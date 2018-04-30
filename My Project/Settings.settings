@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="CommonVal_u" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CommonVal_u_App</Value>
+    </Setting>
+    <Setting Name="CommonVal_a" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CommonVal_a_App</Value>
+    </Setting>
+    <Setting Name="AppVal_u" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AppVal_u</Value>
+    </Setting>
+    <Setting Name="AppVal_a" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AppVal_a</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
